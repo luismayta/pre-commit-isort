@@ -1,6 +1,6 @@
 |Wercker| |license|
 
-:Version: 1.0.0
+:Version: 1.0.1
 :Web: https://github.com/luismayta/pre-commit-isort
 :Download: http://github.com/luismayta/pre-commit-isort
 :Source: http://github.com/luismayta/pre-commit-isort
